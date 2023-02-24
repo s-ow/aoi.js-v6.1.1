@@ -2,6 +2,7 @@
 - cet handler sert pour toutes les commandes des types suivants :
    - les commandes manuelles (basiques ou vocales)
    - les évents liés aux salons textuels ou aux utilisateurs
+- pour ne pas vous perdre, je vous conseille de créer des sous dossiers dans cet handler selon le type de commande que vous faites (`utilitaire`, `musique`...)
 
 #### Exemple de fichier :
 Pour une commande simple :
