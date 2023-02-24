@@ -7,3 +7,8 @@ Les différents packages utilisés :
 - [`npm i aoi.js`](https://aoi.js.org/docs/) pour le langage général
 - [`npm i @akarui/aoi.music`](https://aoi.js.org/extensions/music/introduction), [`npm i ffmpeg-static`](https://www.npmjs.com/package/ffmpeg-static), [`@discordjs/opus`](https://www.npmjs.com/package/@discordjs/opus) pour la musique
 - [`npm i aoi.parser`](https://aoi.js.org/docs/guides/parser) pour pouvoir faire de beaux embeds
+----
+Les wikis ou serveurs les plus utiles :
+- [`support aoi.js`](https://discord.gg/aoi-js-server-akarui-development-team-773352845738115102)
+- [`wiki aoi.js`](https://aoi.js.org/docs/)
+- [`wiki @akarui/aoi.music`](https://github.com/AkaruiDevelopment/aoi.js-documentation/blob/edadc5be51307899f0b5c500f53e482d48dccd8d/src/guides/%40akarui/aoi.music.md) et [`wiki @akarui/aoi.music`](https://aoi.js.org/extensions/music/introduction)
