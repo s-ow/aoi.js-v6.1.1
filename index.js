@@ -1,6 +1,6 @@
 //<------Configuration des constantes------>
 const aoijs = require('aoi.js');
-const config = require('./config.js'); //création d'un handler de configuration
+const config = require('./config.js'); //création d'un fichier de configuration
 const bot = new aoijs.AoiClient(config.Bot); //création de l'objet Bot
 const {
     AoiVoice,
