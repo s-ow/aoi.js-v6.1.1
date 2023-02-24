@@ -20,7 +20,7 @@ loader.load(bot.cmd,"./commands/")     // handler des commandes
 //<------Options de musique------>
 const voice = new AoiVoice(bot, {
     searchOptions: {
-        soundcloudClientId: "ID SoundCloud à remplir !",
+        soundcloudClientId: "ID SoundCloud à remplir !",  // n'oubliez pas de remplir ça, tuto : https://discord.com/channels/773352845738115102/1061724212814950512/1061725903987683379
         youtubegl: "US",
     },
     requestOptions: {
@@ -28,7 +28,7 @@ const voice = new AoiVoice(bot, {
         soundcloudLikeTrackLimit: 200,
     },
 });
-voice.addPlugin(PluginName.Cacher, new Cacher("memory" /* or "disk" */));
+voice.addPlugin(PluginName.Cacher, new Cacher("memory" /* ou "disk" */));
 voice.addPlugin( PluginName.Filter, new Filter( {
     filterFromStart: false,
 }));
