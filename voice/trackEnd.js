@@ -2,7 +2,7 @@
 module.exports={
   name:"trackEnd", // optionnel
   type:"trackEnd", // obligatoire
-  channel:"$voiceID[$clientID]", //optionnel
+  channel:"$voiceID[$clientID]", //optionnel, définit le salon où a lieu la réponse du bot
   code:`
   $if[$queue!=;J'ai fini de jouer \`$songInfo[title;0]\`, je joue maintenant \`$songInfo[title;1]\` - __$humanizeMS[$songInfo[duration;1]]__ dans <#$voiceID[$clientID]>.;La playlist est terminée.]
   `
