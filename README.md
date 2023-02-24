@@ -1,4 +1,4 @@
-# Tutos de [s-ow](https://discordapp.com/users/931326112598986912)
+# Codes de [s-ow](https://discordapp.com/users/931326112598986912)
 #### Ces codes sont publics, mais merci de me créditer en cas de partage.
 ##### Au passage n'hésitez pas à passer sur mon profil github ! 
 [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=s-ow&repo=s-ow&theme=discord_old_blurple&hide_border=true&bg_color=343942)](https://github.com/s-ow/s-ow)
