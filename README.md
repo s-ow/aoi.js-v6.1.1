@@ -19,4 +19,4 @@ Informations complémentaires :
 // conseil ou indication
 ```
 ils peuvent être très importants, lisez les avec attention !
-- si vous avez des questions supplémentaires ou des bugs, n'hésitez pas à me mp directement sur [mon compte discord](https://discord.com/users/931326112598986912)
+- si vous avez des questions supplémentaires, des propositions ou des bugs, n'hésitez pas à me mp directement sur [`mon compte discord`](https://discord.com/users/931326112598986912)
