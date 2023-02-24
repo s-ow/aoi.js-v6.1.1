@@ -12,3 +12,11 @@ Les wikis ou serveurs les plus utiles :
 - [`support aoi.js`](https://discord.gg/aoi-js-server-akarui-development-team-773352845738115102)
 - [`wiki aoi.js`](https://aoi.js.org/docs/)
 - [`wiki @akarui/aoi.music`](https://github.com/AkaruiDevelopment/aoi.js-documentation/blob/edadc5be51307899f0b5c500f53e482d48dccd8d/src/guides/%40akarui/aoi.music.md) et [`wiki @akarui/aoi.music`](https://aoi.js.org/extensions/music/introduction)
+----
+Informations complémentaires :
+- dans la plupart des fichiers, vous trouverez des informations utiles à la compréhension et à la personnalisation des codes présentés sous cette forme :
+```js
+// conseil ou indication
+```
+ils peuvent être très importants, lisez les avec attention !
+- si vous avez des questions supplémentaires ou des bugs, n'hésitez pas à me mp directement sur [mon compte discord](https://discord.com/users/931326112598986912)
