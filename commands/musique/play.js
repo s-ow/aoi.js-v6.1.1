@@ -5,7 +5,7 @@ module.exports=[{
     
     $let[a;$sub[$queueLength;1]]
     
-    $playTrack[$message;youtube]
+    $playTrack[$message;soundcloud]
     
     $onlyIf[$message!=;Mauvais usage, pense à demander une musique dans ta commande.]
     $onlyIf[$voiceID[$authorID]==$voiceID[$clientID];Tu n'es pas dans mon salon.]
